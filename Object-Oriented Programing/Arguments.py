@@ -5,7 +5,7 @@ class First:
         a=kwargs
         print(a,self.age)
 
-name='Saima Mubashir'
+name='Mubashir Saeed'
 a=2
 c=3
 first=First(name,a,c)
